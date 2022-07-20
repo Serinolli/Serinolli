@@ -1,14 +1,15 @@
 ### Hello There! Bem-vindo ao meu Perfil :)
 
-- 🔭 Fullstack Junior Developer
+- 🔭 Fullstack Developer
 - 🐱‍👤 SQL Enthusiast
 - 💻 Studying Cloud Computing
 
 
 <div>
   <a href="github.com/Serinolli">
-    <img src="https://github-readme-stats.vercel.app/api?username=serinolli&count_private=true&show_icons=true&theme=dracula">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serinolli&theme=dracula"> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=serinolli&count_private=true&show_icons=true&theme=vision-friendly-dark">
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serinolli&theme=dark"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Serinolli&theme=dark&date_format=j%2Fn%5B%2FY%5D">
 </div>
  <div style="display:inline_block"><br>
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
