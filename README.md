@@ -1,8 +1,8 @@
 ### Hello There! Bem-vindo ao meu Perfil :)
 
 - 🔭 Fullstack Developer
-- 🐱‍👤 SQL Enthusiast
-- 💻 Studying Cloud Computing
+- 🐱‍👤 TypeScript Enthusiast
+- 🦀 Studying Rust Language
 
 <div>
   <a href="github.com/Serinolli">
