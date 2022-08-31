@@ -2,7 +2,9 @@
 
 - 🔭 Fullstack Developer
 - 🐱‍👤 TypeScript Enthusiast
-- 🦀 Studying Rust Language
+-  Studying <img  height="15" weight="20" src="https://go.dev/images/go-logo-white.svg">
+
+
 
 <div>
   <a href="github.com/Serinolli">
