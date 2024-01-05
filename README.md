@@ -2,7 +2,7 @@
 
 - 🔭 Fullstack Developer
 - 🐱‍👤 TypeScript and .NET Enthusiast
--  Studying <img  height="15" weight="20" src="https://go.dev/images/go-logo-white.svg">
+-  Studying GO
 
 
 
