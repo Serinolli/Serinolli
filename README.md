@@ -1,10 +1,36 @@
-### Hello There! Bem-vindo ao meu Perfil :)
+### Hello There! I'm Rafael :)
 
 - 🔭 Fullstack Developer
 - 🐱‍👤 TypeScript and .NET Enthusiast
 -  Studying GO
 
-
+```javascript
+const fullStackDeveloper = {
+  name: "Rafael Serinolli",
+  stack: "Full Stack",
+  languages: ["JavaScript", "TypeScript", "C#"],
+  frontend: {
+    framework: ["Angular"],
+    responsiveDesign: true,
+    testing: ["Jest"],
+  },
+  backend: {
+    language: ["JavaScript (Node.js)", "C# (.Net)"],
+    framework: "Express",
+    database: ["MSSQL", "PLSQL", "MongoDB"],
+    RESTfulAPIs: true,
+  },
+  devOps: {
+    versionControl: "Git",
+    containerization: "Docker",
+    orchestration: "Kubernetes",
+  },
+  methodologies: ["Agile", "Scrum"],
+  additionalSkills: ["WebSocket", "MQTT"],
+  problemSolving: true,
+  continuousLearning: true,
+};
+```
 
 <div>
   <a href="github.com/Serinolli">
@@ -15,9 +41,6 @@
 
 &nbsp;
 
-|`Frameworks` | `Languages` | `Softwares/SDK's/Others` |  
-|---|---|---|
-| <div style="display:inline_block"><br><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></div> | <div style="display:inline_block"><br> <img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  </div> | <div style="display:inline_block"><br><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img align="center" height="45" weight="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></div> |  
 
   
   ##
