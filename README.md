@@ -2,28 +2,25 @@
 
 - 🔭 Fullstack Developer
 - 🐱‍👤 TypeScript and .NET Enthusiast
--  Studying GO
 
 ```javascript
 const fullStackDeveloper = {
   name: "Rafael Serinolli",
   stack: "Full Stack",
   languages: ["JavaScript", "TypeScript", "C#"],
+  learning: ["GO", "Containerization (Docker)"],
   frontend: {
-    framework: ["Angular"],
+    frameworks: ["Angular"],
     responsiveDesign: true,
     testing: ["Jest"],
   },
   backend: {
-    language: ["JavaScript (Node.js)", "C# (.Net)"],
-    framework: "Express",
+    frameworks: ["Node.js", ".NET"],
     database: ["MSSQL", "PLSQL", "MongoDB"],
     RESTfulAPIs: true,
   },
   devOps: {
     versionControl: "Git",
-    containerization: "Docker",
-    orchestration: "Kubernetes",
   },
   methodologies: ["Agile", "Scrum"],
   additionalSkills: ["WebSocket", "MQTT"],
@@ -45,10 +42,9 @@ const fullStackDeveloper = {
   
   ##
 
-  <div> 
-  <a href="https://instagram.com/rafael_serinolli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafael.serinolli2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div>  
   <a href="https://www.linkedin.com/in/serinolli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rafael.serinolli2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/serinolli/serinolli/blob/output/github-contribution-grid-snake.svg)
  
