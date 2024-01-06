@@ -1,7 +1,4 @@
-### Hello There! I'm Rafael :)
-
-- 🔭 Fullstack Developer
-- 🐱‍👤 TypeScript and .NET Enthusiast
+## Hello There! I'm Rafael :) 
 
 ```javascript
 const fullStackDeveloper = {
@@ -10,7 +7,7 @@ const fullStackDeveloper = {
   languages: ["JavaScript", "TypeScript", "C#"],
   learning: ["GO", "Containerization (Docker)"],
   frontend: {
-    frameworks: ["Angular"],
+    frameworks: ["Angular", "ASP.NET"],
     responsiveDesign: true,
     testing: ["Jest"],
   },
@@ -32,20 +29,14 @@ const fullStackDeveloper = {
 <div>
   <a href="github.com/Serinolli">
     <img src="https://github-readme-stats.vercel.app/api?username=serinolli&count_private=true&show_icons=true&theme=vision-friendly-dark">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serinolli&theme=dark"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Serinolli&theme=dark&date_format=j%2Fn%5B%2FY%5D">
 </div>
 
 &nbsp;
-
-
+### You can find me here:
+<div>
   
-  ##
-
-  <div>  
   <a href="https://www.linkedin.com/in/serinolli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafael.serinolli2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/serinolli/serinolli/blob/output/github-contribution-grid-snake.svg)
- 
+  
+![](https://komarev.com/ghpvc/?username=Serinolli)
 </div>
