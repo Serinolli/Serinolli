@@ -5,7 +5,7 @@ const fullStackDeveloper = {
   name: "Rafael Serinolli",
   stack: "Full Stack",
   languages: ["JavaScript", "TypeScript", "C#"],
-  learning: ["GO", "Containerization (Docker)"],
+  learning: ["GO", "Python", "Containerization (Docker)"],
   frontend: {
     frameworks: ["Angular", "ASP.NET"],
     responsiveDesign: true,
