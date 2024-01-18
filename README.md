@@ -7,7 +7,7 @@ const fullStackDeveloper = {
   languages: ["JavaScript", "TypeScript", "C#"],
   learning: ["GO", "Python", "Containerization (Docker)"],
   frontend: {
-    frameworks: ["Angular", "ASP.NET"],
+    frameworks: ["Angular", "ASP.NET", "Node.js"],
     responsiveDesign: true,
     testing: ["Jest"],
   },
