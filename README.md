@@ -23,6 +23,7 @@ const fullStackDeveloper = {
   additionalSkills: ["WebSocket", "MQTT"],
   problemSolving: true,
   continuousLearning: true,
+  quickLearning: true,
 };
 ```
 
